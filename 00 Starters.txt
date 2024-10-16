@@ -1,0 +1,9 @@
+We are going to see a lot of problem solving questions and will slowly start increasing the bar.
+
+we will have steps involved in solving the questions
+
+Analyze > Plan > Implement > Evaluate
+
+1. Understand the Question and its requirement.
+2. What is the desired output ?
+3. How will you proceed with steps to achieve that output ?
